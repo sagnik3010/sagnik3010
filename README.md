@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagnik3010&label=Profile%20views&color=0e75b6&style=flat" alt="sagnik3010" /> </p>
 
-- 🔭 I’m currently working on **Non renewable Energy Impact on Environment Since Industrial Revolution in Major polluting Nations**
-
 - 🌱 I’m currently learning **Data Analysis**
 
 - 👯 I’m looking to collaborate on **Real World projects**
